@@ -1,10 +1,10 @@
 # the-gogo-initiative
 
-The GoGo Initiative is a personal project revolving around the learning process of the Go programming language. The reason being I’m just really curious about Go and it’s progress of taking over the modern industry. 
+The GoGo Initiative is my personal project focused on learning the Go programming language. I started this journey because I'm fascinated by Go's growing influence in modern software development.
 
-This project was started on Christmas of 2024 by first building simple go apps referring to examples provided by [gobyexample.com](http://gobyexample.com). The website provides surface level hands-on introduction to the go language.
+The project began on Christmas 2024, when I started building simple Go applications using examples from [gobyexample.com](http://gobyexample.com). This website offers a practical, hands-on introduction to Go's fundamentals.
 
-Apart from doing examples for fundamentals, the project also has larger scaled apps by rebuilding college assignments during my time in ITB. I re-engineered several assignment projects in classes such as Data Structures & Algorithm, Object Oriented Programming, and Web Development.
+Beyond these basic examples, I've expanded the project to include larger applications by reimagining my college assignments from ITB. I've rebuilt projects from my Data Structures & Algorithm, Object Oriented Programming, and Web Development courses using Go.
 
 # Setup
 
